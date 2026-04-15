@@ -1,9 +1,9 @@
 # 机器学习实验：基于 Word2Vec 的情感预测
 
 ## 1. 学生信息
-- **姓名**：
-- **学号**：
-- **班级**：
+- **姓名**： 唐为波
+- **学号**：112304260144
+- **班级**：数据1231
 
 > 注意：姓名和学号必须填写，否则本次实验提交无效。
 
@@ -26,8 +26,8 @@
 - **比赛链接**：https://www.kaggle.com/competitions/word2vec-nlp-tutorial/overview
 - **提交日期**：2026-04-15
 
-- **GitHub 仓库地址**：https://github.com/wenchilail/wenchi77.git
-- **GitHub README 地址**：https://github.com/wenchilail/wenchi77/blob/main/README.md
+- **GitHub 仓库地址**：https://github.com/wenchilail/tangweibo-112304260144.git
+- **GitHub README 地址**：https://github.com/wenchilail/tangweibo-112304260144/blob/main/README.md
 
 > 注意：GitHub 仓库首页或 README 页面中，必须能看到"姓名 + 学号"，否则无效。
 
@@ -36,8 +36,8 @@
 ## 4. Kaggle 成绩
 请填写你最终提交到 Kaggle 的结果：
 
-- **Public Score**：
-- **Private Score**（如有）：
+- **Public Score**：0.96077
+- **Private Score**（如有）：0.96077
 - **排名**（如能看到可填写）：
 
 ---
@@ -45,10 +45,9 @@
 ## 5. Kaggle 截图
 请在下方插入 Kaggle 提交结果截图，要求能清楚看到分数信息。
 
-![Kaggle截图](./images/kaggle_score.png)
+![Kaggle截图](./images/数据1231唐为波.png)
 
-> 建议将截图保存在 `images` 文件夹中。  
-> 截图文件名示例：`2023123456_张三_kaggle_score.png`
+> 截图文件名：`数据1231唐为波.png`
 
 ---
 
