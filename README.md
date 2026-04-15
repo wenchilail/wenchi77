@@ -26,8 +26,8 @@
 - **比赛链接**：https://www.kaggle.com/competitions/word2vec-nlp-tutorial/overview
 - **提交日期**：2026-04-15
 
-- **GitHub 仓库地址**：https://github.com/wenchilail/tangweibo-112304260144.git
-- **GitHub README 地址**：https://github.com/wenchilail/tangweibo-112304260144/blob/main/README.md
+- **GitHub 仓库地址**：https://github.com/wenchilail/tangweibo112304260144.git
+- **GitHub README 地址**：https://github.com/wenchilail/tangweibo112304260144/blob/main/README.md
 
 > 注意：GitHub 仓库首页或 README 页面中，必须能看到"姓名 + 学号"，否则无效。
 
